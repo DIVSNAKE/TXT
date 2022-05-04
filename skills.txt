@@ -1,0 +1,5 @@
+Skill 1: JSON, XML
+Skill 2: Postman
+Skill 3: Dev Tools
+Skill 4: Git Bash, GitHub
+Skill 5: SQL
